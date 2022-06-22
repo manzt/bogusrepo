@@ -1,0 +1,9 @@
+{
+  "name": "bogus",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@bogus/components": "workspace:*",
+    "@bogus/utils": "workspace:*"
+  }
+}
