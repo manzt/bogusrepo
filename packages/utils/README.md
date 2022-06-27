@@ -11,4 +11,3 @@ npm install @bogus/utils
 ## License
 
 MIT
-

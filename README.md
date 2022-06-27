@@ -1,7 +1,7 @@
 # @bogus/monorepo
 
-> An example `pnpm` monorepo that includes React components and a Vite app for development
-
+> An example `pnpm` monorepo that includes React components and a Vite app for
+> development
 
 ```bash
 pnpm install

@@ -1,11 +1,11 @@
 {
-  "name": "@bogus/utils",
-  "version": "0.0.0",
-  "main": "src/index.js",
-  "publishConfig": {
-    "main": "lib/index.js"
-  },
-  "scripts": {
-    "build": "tsc"
-  }
+	"name": "@bogus/utils",
+	"main": "src/index.js",
+	"publishConfig": {
+		"main": "lib/index.js",
+		"types": "lib/index.d.ts"
+	},
+	"scripts": {
+		"build": "tsc"
+	}
 }

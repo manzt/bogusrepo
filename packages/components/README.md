@@ -11,4 +11,3 @@ npm install @bogus/components
 ## License
 
 MIT
-
